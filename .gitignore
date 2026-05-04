@@ -1,0 +1,6 @@
+# Editor directories and files
+.vscode/
+
+# Python cache files (Good practice since you have a Python script!)
+__pycache__/
+*.pyc
